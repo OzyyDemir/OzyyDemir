@@ -1,9 +1,12 @@
 ### Hi there 👋 I'm Oğuzhan
 
+- 💬 Ask me about Computer Engineering
+- 🌱 I’m currently learning Java and Model-View-Controller with C#
+
 <!--
 **OzyyDemir/OzyyDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

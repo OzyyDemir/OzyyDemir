@@ -3,6 +3,9 @@
 - 💬 Ask me about Computer Engineering
 - 🌱 I’m currently learning Java and Model-View-Controller with C#
 
+---------------------------------------------------------------
+
+[![Oğuzhan'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=OzzyDemir)](https://github.com/OzzyDemir/github-readme-stats)
 <!--
 **OzyyDemir/OzyyDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

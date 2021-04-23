@@ -6,6 +6,10 @@
 ---------------------------------------------------------------
 
 [![Oğuzhan'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=OzyyDemir&show_icons=true&theme=tokyonight)](https://github.com/OzyyDemir/github-readme-stats)
+
+-------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzyyDemir)](https://github.com/OzyyDemir/github-readme-stats)
+
 <!--
 **OzyyDemir/OzyyDemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

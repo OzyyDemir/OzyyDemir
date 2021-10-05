@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Oğuzhan
 
 - 💬 Ask me about Computer Engineering
-- 🌱 I’m currently learning Java and Model-View-Controller with C#
+- 🌱 I’m currently learning Model-View-Controller with C#
 
 ---------------------------------------------------------------
 
